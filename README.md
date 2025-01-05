@@ -30,4 +30,4 @@ For more information on the Trivium cipher and its applications, refer to the re
 
 ---
 
-*This project was developed by Walid LAGGOUNE as part of the Master's program in [RRM](https://www.usthb.dz/facultes/faculte-d-electronique-et-informatique) at the University of Science and Technology Houari Boumediene.* 
+*This project was developed by Walid LAGGOUNE as part of the Master's program in [RRM](https://fge.usthb.dz/dept_telecom/index.php/master/) at the University of Science and Technology Houari Boumediene.* 
